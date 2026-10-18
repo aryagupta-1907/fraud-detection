@@ -1,0 +1,14 @@
+# Environments
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Data & Models
+data/raw/*
+data/processed/*
+models/*
+
+# Jupyter & OS
+.ipynb_checkpoints/
+.DS_Store
